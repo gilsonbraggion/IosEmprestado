@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "Categoria"; ObjectID = "1lA-6U-6nV"; */
+"1lA-6U-6nV.text" = "Categoria";
+
+/* Class = "UILabel"; text = "Data Empréstimo"; ObjectID = "4Mg-KG-Ci8"; */
+"4Mg-KG-Ci8.text" = "Data Empréstimo";
+
+/* Class = "UINavigationItem"; title = "Emprestar"; ObjectID = "7Mw-84-yL4"; */
+"7Mw-84-yL4.title" = "Emprestar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "80u-TS-2ka"; */
+"80u-TS-2ka.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AjE-nG-kS5"; */
+"AjE-nG-kS5.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Categorias"; ObjectID = "B5u-0b-bKG"; */
+"B5u-0b-bKG.title" = "Categorias";
+
+/* Class = "UINavigationItem"; title = "Pertences"; ObjectID = "FRO-G8-LS5"; */
+"FRO-G8-LS5.title" = "Pertences";
+
+/* Class = "UINavigationItem"; title = "Devolver"; ObjectID = "GlK-2B-G7L"; */
+"GlK-2B-G7L.title" = "Devolver";
+
+/* Class = "UITabBarItem"; title = "Conta"; ObjectID = "Kuc-4R-x9G"; */
+"Kuc-4R-x9G.title" = "Conta";
+
+/* Class = "UIButton"; normalTitle = "Histórico"; ObjectID = "Mek-c7-rix"; */
+"Mek-c7-rix.normalTitle" = "Histórico";
+
+/* Class = "UINavigationItem"; title = "Emprestados"; ObjectID = "Sfe-b6-EmL"; */
+"Sfe-b6-EmL.title" = "Emprestados";
+
+/* Class = "UIButton"; normalTitle = "Devolver"; ObjectID = "XBa-dD-E3S"; */
+"XBa-dD-E3S.normalTitle" = "Devolver";
+
+/* Class = "UITabBarItem"; title = "Emprestados"; ObjectID = "YKb-2l-rdw"; */
+"YKb-2l-rdw.title" = "Emprestados";
+
+/* Class = "UILabel"; text = "Emprestado para"; ObjectID = "dPa-tH-cCJ"; */
+"dPa-tH-cCJ.text" = "Emprestado para";
+
+/* Class = "UIButton"; normalTitle = "Emprestar"; ObjectID = "dZF-F9-OuN"; */
+"dZF-F9-OuN.normalTitle" = "Emprestar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dsU-R3-so1"; */
+"dsU-R3-so1.text" = "Label";
+
+/* Class = "UILabel"; text = "Responsável"; ObjectID = "fsy-EB-q8b"; */
+"fsy-EB-q8b.text" = "Responsável";
+
+/* Class = "UINavigationItem"; title = "Detalhes"; ObjectID = "g4G-O7-xUj"; */
+"g4G-O7-xUj.title" = "Detalhes";
+
+/* Class = "UIButton"; normalTitle = "Emprestar"; ObjectID = "gvm-Sa-yhE"; */
+"gvm-Sa-yhE.normalTitle" = "Emprestar";
+
+/* Class = "UILabel"; text = "Pertence"; ObjectID = "iTf-pZ-lzG"; */
+"iTf-pZ-lzG.text" = "Pertence";
+
+/* Class = "UILabel"; text = "E-Mail:"; ObjectID = "jdH-dU-nrq"; */
+"jdH-dU-nrq.text" = "E-Mail:";
+
+/* Class = "UITabBarItem"; title = "Pertences"; ObjectID = "oQs-fR-cgD"; */
+"oQs-fR-cgD.title" = "Pertences";
+
+/* Class = "UILabel"; text = "Data Prevista Devolução"; ObjectID = "pAW-E5-Qvj"; */
+"pAW-E5-Qvj.text" = "Data Prevista Devolução";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qd9-HK-VVm"; */
+"qd9-HK-VVm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Nome:"; ObjectID = "sBg-pW-JEn"; */
+"sBg-pW-JEn.text" = "Nome:";
